@@ -5,7 +5,6 @@
 - 🌱 Currently, I’m currently learning Front-End Developers. My path is to become a full-fledged JS Senior Developer.
 - 💞️ I’m looking to collaborate on some promising projects if interested.
 - 📫 How to reach me:
-   + Email: lehoanggia2710@gmail.com
    + Tel: (+84) 777 477 353
    + Linkdin: https://www.linkedin.com/in/gia-le/
 
